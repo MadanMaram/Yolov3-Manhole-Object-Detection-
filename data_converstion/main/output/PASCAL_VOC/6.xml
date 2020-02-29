@@ -1,0 +1,26 @@
+<annotation>
+	<folder>YOLO</folder>
+	<filename>6.jpeg</filename>
+	<path>/home/madanmaram/Documents/PROJECTS/YOLO/6.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>168</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>manhole</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>91</xmin>
+			<ymin>15</ymin>
+			<xmax>285</xmax>
+			<ymax>168</ymax>
+		</bndbox>
+	</object>
+</annotation>
